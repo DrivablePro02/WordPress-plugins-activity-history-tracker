@@ -4,10 +4,9 @@
  * Plugin URI: https://yahyadev.online/
  * Description: A comprehensive suite of enhancements for WooCommerce, providing advanced delivery tracking and management features.
  * Version: 1.0.0
- * Author: Balto
+ * Author: Yahya Eddaqqaq
  * Author URI: https://yahyadev.online/
  * Text Domain: PAS
- * Domain Path: /languages
  * Requires at least: 5.0
  * Requires PHP: 7.4
  * License: GPL v2 or later
